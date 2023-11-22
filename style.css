@@ -1,11 +1,18 @@
-<style>
 p{
     text-align: center;
-}
-
-    h1{text-align: center;
-
-        color: rgb(247, 0, 255);
+    color: yellow;
     }
-    .paragrafo1}
+    
+    h1{
+    text-align: center;
+    color: skyblue;
+    background: black;
+    }
+    .paragrafo1{
+    color: red;
+    }
+    
+    body{
+    background: black;
+    }
     
